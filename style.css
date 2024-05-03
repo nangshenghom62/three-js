@@ -17,7 +17,7 @@ canvas {
 }
 
 
-main {
+/* main {
   width: 100vw;
   color: white;
   z-index: 99;
@@ -78,4 +78,4 @@ canvas {
 
   .left {
     grid-column: 6 / 12;
-  }
+  } */
